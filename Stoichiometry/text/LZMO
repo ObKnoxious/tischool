@@ -1,0 +1,5 @@
+ClrHome
+Input "LITER ",A
+Disp A*(1/22.4)
+Disp "PRGM BY"
+Disp "KNOX CRICHTON"

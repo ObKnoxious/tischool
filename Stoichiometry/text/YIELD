@@ -1,0 +1,6 @@
+ClrHome
+Input "ACTUAL YIELD ",A
+Input "THEO YIELD ",B
+Disp A/B*100
+Disp "PRGM BY"
+Disp "KNOX CRICHTON"

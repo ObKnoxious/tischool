@@ -1,0 +1,5 @@
+ClrHome
+Input "MOLES ",A
+Disp A(6.02*10^23)
+Disp "PRGM BY"
+Disp "KNOX CRICHTON"

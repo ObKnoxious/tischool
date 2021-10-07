@@ -1,0 +1,8 @@
+ClrHome
+Disp "MOLE RATIO = FINAL/INITIAL"
+Pause 
+Input "INITIAL MOLE ",A
+Input "MOLE RATIO ",B
+Disp A*B
+Disp "PRGM BY"
+Disp "KNOX CRICHTON"

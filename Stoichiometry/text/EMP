@@ -1,0 +1,6 @@
+Disp "PERCENT TO MASS"
+Pause 
+Disp "MASS TO MOLE"
+Pause 
+Disp "DIVIDE BY SMALL"
+Disp "MULTIPLY TILL WHOLE"

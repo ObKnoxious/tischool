@@ -1,0 +1,6 @@
+ClrHome
+Input "MOLE ",A
+Input "MOLARMASS ",B
+Disp A*(B)
+Disp "PRGM BY"
+Disp "KNOX CRICHTON"
